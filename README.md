@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native and Data Structures and Algorithms<br>💬 Ask me about python, React, and Data Structures and algorithms<br>⚡ Fun fact: Take a leisurely stroll around the city, wandering without any particular destination, simply enjoying a relaxing time..
+🌱 I’m currently learning React Native and Data Structures and Algorithms<br>💬 Ask me about Python, React, and Data Structures and algorithms<br>⚡ Fun fact: Take a leisurely stroll around the city, wandering without any particular destination, simply enjoying a relaxing time..
 
 
 ## 🌐 Socials:
