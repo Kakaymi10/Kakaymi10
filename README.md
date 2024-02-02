@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C & Data Structures and Algorithms<br>💬 Ask me about Python, JavaScript, React, and Data Structures & algorithms<br>⚡ Fun fact: Take a leisurely stroll around the city, wandering without any particular destination.
+🌱 I’m currently learning Mathematics for Machine learning, C & Data Structures and Algorithms<br>💬 Ask me about Python, JavaScript, React, and Data Structures & algorithms<br>⚡ Fun fact: Take a leisurely stroll around the city, wandering without any particular destination.
 
 
 ## 🌐 Socials:
