@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer Vision, Natural Langugage Processing, RAG and Data Structures and Algorithms<br>💬 Ask me about Machine Learning, Full Stack Web and Mobile develepment, and Data Structures & algorithms<br>⚡ Fun fact: Take a leisurely stroll around the city, wandering without any particular destination.
+💬 Ask me about Machine Learning, Full Stack Web and Mobile develepment, and Data Structures & algorithms<br>⚡ Fun fact: Take a leisurely stroll around the city, wandering without any particular destination.
 
 
 ## 🌐 Socials:
