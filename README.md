@@ -16,8 +16,9 @@
 
 - 🧬 **[Afyawave](https://www.linkedin.com/company/afyawave/)** (CTO) - Developing physics-aware medical ultrasound AI to improve diagnostic robustness. **HangapitchFest Top Startup Winner ($10k)**.
 - 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer) - Fine-tuning low-resource ASR models (Whisper/wav2vec) for Wolof and mitigating bias in LLMs.
+- 🎥 **[AI Motion Video Generator](https://github.com/Kakaymi10)** - Generative video models for dynamic content creation.
+- 🤖 **[Zact AI](https://zact.ai)** - Autonomous agents that can join your meetings as humans.
 - 🔬 **[MicroVision](https://github.com/Kakaymi10)** - AI-powered virtual microscopy platform for education (SAM2 + RealESRGAN).
-- 🐚 **[NLShell](https://www.npmjs.com/package/nlshell)** - Natural Language to Shell Command CLI tool (400+ downloads).
 
 ## Awards & Recognition
 
