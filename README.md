@@ -27,7 +27,7 @@
 - 🏆 **Presidential Youth Award (Chad 2025)** - Best youth in Technology & AI for contributions to healthcare access.
 - 🥇 **ICP Rwanda Hackathon (1st Place)** - Blockchain-based medical records system.
 - 🥉 **HangapitchFest (Top 3)** - Recognized as one of Rwanda's top startups for Afyawave.
-- 🎓 **First Class Honors (4.48/5)** - BSc Software Engineering, African Leadership University.
+- 🎓 **First Class Honors** - BSc Software Engineering, African Leadership University.
 
 ## Connect
 
