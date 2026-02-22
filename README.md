@@ -12,20 +12,13 @@
 
 > Building the infrastructure for the Agent Age. Creator of **Toolify-AI**. Also bridging healthcare gaps with physics-aware AI.
 
-## Featured Project
-
-### 🛠️ [Toolify-AI](https://github.com/Kakaymi10/toolify)
-**Zero Boilerplate for Agentic Tools.**
-Stop writing boilerplate JSON schemas. Toolify auto-generates OpenAI-compatible tool definitions from your Python functions.
-`pip install toolify-ai`
 
 ---
 
 ## Current Work
-
+- 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer).
 - 🛠️ **[Toolify-AI](https://github.com/Kakaymi10/toolify)** - Converts your Python functions into OpenAI/Anthropic/Gemini-compatible tool schemas instantly using a simple decorator.
 - 🧬 **[Afyawave](https://www.linkedin.com/company/afyawave/)** (CTO) - Developing physics-aware medical AI powered ultrasound.
-- 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer).
 - 🎥 **[AI Motion Video Generator](https://github.com/Kakaymi10)** - Generative video models for dynamic content creation.
 - 🤖 **[Zact AI](https://zact.ai)** - Autonomous agents that can join your meetings as humans.
 
