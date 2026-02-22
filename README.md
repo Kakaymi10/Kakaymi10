@@ -15,7 +15,7 @@
 ## Featured Project
 
 ### 🛠️ [Toolify-AI](https://github.com/Kakaymi10/toolify)
-**The Standard for Agentic Tools.**
+**Zero Boilerplate for Agentic Tools.**
 Stop writing boilerplate JSON schemas. Toolify auto-generates OpenAI-compatible tool definitions from your Python functions.
 `pip install toolify-ai`
 
@@ -23,7 +23,7 @@ Stop writing boilerplate JSON schemas. Toolify auto-generates OpenAI-compatible 
 
 ## Current Work
 
-- 🛠️ **[Toolify-AI](https://github.com/Kakaymi10/toolify)** - Building the standard library for AI agents.
+- 🛠️ **[Toolify-AI](https://github.com/Kakaymi10/toolify)** - Building the infrastructure for AI agents.
 - 🧬 **[Afyawave](https://www.linkedin.com/company/afyawave/)** (CTO) - Developing physics-aware medical AI powered ultrasound.
 - 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer).
 - 🎥 **[AI Motion Video Generator](https://github.com/Kakaymi10)** - Generative video models for dynamic content creation.
