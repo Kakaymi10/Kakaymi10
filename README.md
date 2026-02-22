@@ -1,6 +1,6 @@
 # Hi, I'm Moussa 👋
 
-📍 **Kigali, Rwanda** | 🧬 **CTO @ Afyawave** | 🤖 **AI Researcher** | 🚀 **Building for Health & Africa**
+📍 **Kigali, Rwanda** | 🧬 **CTO @ Afyawave** | 🤖 **AI Researcher** | 🚀 **Building for the Agent Age**
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -10,15 +10,24 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-> Building AI that understands the physical world and African languages. Machine Learning Engineer & CTO bridging healthcare gaps with physics-aware AI.
+> Building the infrastructure for the Agent Age. Creator of **Toolify-AI**. Also bridging healthcare gaps with physics-aware AI.
+
+## Featured Project
+
+### 🛠️ [Toolify-AI](https://github.com/Kakaymi10/toolify)
+**The Standard for Agentic Tools.**
+Stop writing boilerplate JSON schemas. Toolify auto-generates OpenAI-compatible tool definitions from your Python functions.
+`pip install toolify-ai`
+
+---
 
 ## Current Work
 
-- 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer).
+- 🛠️ **[Toolify-AI](https://github.com/Kakaymi10/toolify)** - Building the standard library for AI agents.
 - 🧬 **[Afyawave](https://www.linkedin.com/company/afyawave/)** (CTO) - Developing physics-aware medical AI powered ultrasound.
+- 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer).
 - 🎥 **[AI Motion Video Generator](https://github.com/Kakaymi10)** - Generative video models for dynamic content creation.
 - 🤖 **[Zact AI](https://zact.ai)** - Autonomous agents that can join your meetings as humans.
-- 🔬 **[MicroVision](https://github.com/Kakaymi10)** - AI-powered virtual microscopy platform for education (SAM2 + RealESRGAN).
 
 ## Awards & Recognition
 
