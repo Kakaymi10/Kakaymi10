@@ -23,7 +23,7 @@ Stop writing boilerplate JSON schemas. Toolify auto-generates OpenAI-compatible 
 
 ## Current Work
 
-- 🛠️ **[Toolify-AI](https://github.com/Kakaymi10/toolify)** - Building the infrastructure for AI agents.
+- 🛠️ **[Toolify-AI](https://github.com/Kakaymi10/toolify)** - Converts your Python functions into OpenAI/Anthropic/Gemini-compatible tool schemas instantly using a simple decorator.
 - 🧬 **[Afyawave](https://www.linkedin.com/company/afyawave/)** (CTO) - Developing physics-aware medical AI powered ultrasound.
 - 🗣️ **[Looka Research](https://looka.ai/)** (ML Engineer).
 - 🎥 **[AI Motion Video Generator](https://github.com/Kakaymi10)** - Generative video models for dynamic content creation.
