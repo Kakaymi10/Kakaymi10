@@ -10,7 +10,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-> Building the infrastructure for the Agent Age. Creator of **Toolify-AI**. Also bridging healthcare gaps with physics-aware AI.
+> Building the infrastructure for the Agent Age. Also bridging healthcare gaps with physics-aware AI.
 
 
 ---
